@@ -1,1 +1,7 @@
+.hidden{
+    display: none;
+}
 
+#todo-form input{
+    width: 207px;
+}
